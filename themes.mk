@@ -16,6 +16,9 @@ include vendor/extras/iconshapes.mk
 # Navbar
 include vendor/extras/navbar.mk
 
+# Notch City
+include vendor/extras/notchcity.mk
+
 # Offline charger
 PRODUCT_PACKAGES += \
     charger_res_images \
