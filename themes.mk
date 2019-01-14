@@ -14,6 +14,9 @@ include vendor/extras/colorbucket.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/extras/customicons
 
+# Cutout
+include vendor/extras/cutout.mk
+
 # GVisual
 include vendor/extras/gvisual.mk
 
