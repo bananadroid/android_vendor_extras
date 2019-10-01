@@ -10,6 +10,10 @@ PRODUCT_PACKAGES += \
 # ColorBucket
 include vendor/extras/colorbucket.mk
 
+# Custom Icons
+PRODUCT_PACKAGE_OVERLAYS += \
+    vendor/extras/customicons
+
 # GVisual
 include vendor/extras/gvisual.mk
 
