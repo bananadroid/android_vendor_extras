@@ -10,6 +10,9 @@ PRODUCT_PACKAGES += \
 # ColorBucket
 include vendor/extras/colorbucket.mk
 
+# GVisual
+include vendor/extras/gvisual.mk
+
 # Icon Shapes
 include vendor/extras/iconshapes.mk
 
