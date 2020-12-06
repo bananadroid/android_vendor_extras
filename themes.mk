@@ -34,6 +34,12 @@ PRODUCT_PACKAGES += \
 # Potato volume panels
 include packages/apps/Plugins/plugins.mk
 
+# QS brightness slider styles
+include vendor/extras/brightness.mk
+
+# QS panel background style
+include vendor/extras/panelbg.mk
+
 # QS tile styles
 include vendor/extras/qstiles.mk
 
