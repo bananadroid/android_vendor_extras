@@ -10,6 +10,9 @@ PRODUCT_PACKAGES += \
 # ColorBucket
 include vendor/extras/colorbucket.mk
 
+# Copy fonts to system
+PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/extras/fonts,$(TARGET_COPY_OUT_SYSTEM)/fonts)
+
 # Custom Icons
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/extras/customicons
