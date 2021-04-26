@@ -120,6 +120,25 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
 
+# Icons Signal / Wifi
+PRODUCT_PACKAGES += \
+	BarsSignalOverlay \
+	BarsWiFiOverlay \
+	InsideSignalOverlay \
+	InsideWiFiOverlay \
+	RoundSignalOverlay \
+	RoundWiFiOverlay \
+	SneakySignalOverlay \
+	SneakyWiFiOverlay \
+	StrokeSignalOverlay \
+	StrokeWiFiOverlay \
+	WavySignalOverlay \
+	WavyWiFiOverlay \
+	XperiaSignalOverlay \
+	XperiaWiFiOverlay \
+	ZigZagSignalOverlay \
+	ZigZagWiFiOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
     NavigationBarNoHintOverlay \
