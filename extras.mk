@@ -13,7 +13,9 @@ PRODUCT_PACKAGE_OVERLAYS += \
 
 # Navbar
 PRODUCT_PACKAGES += \
-    NavigationBarNoHintOverlay
+    NavigationBarNoHintOverlay \
+    GesturalNavigationOverlayLong \
+    GesturalNavigationOverlayMedium
 
 # Offline charger
 PRODUCT_PACKAGES += \
