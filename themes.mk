@@ -49,6 +49,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
 # Cutout control overlays
 PRODUCT_PACKAGES += \
     HideCutout \
+    ImmersiveMode \
     StatusBarStock
 
 # Icon Shapes
