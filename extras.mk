@@ -327,6 +327,7 @@ PRODUCT_PACKAGES += \
 
 # Navbar
 PRODUCT_PACKAGES += \
+    NavigationBarNoHintOverlay \
     NavbarAndroidOverlay \
     NavbarAsusOverlay \
     NavbarMotoOverlay \
