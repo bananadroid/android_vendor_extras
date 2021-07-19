@@ -1,6 +1,12 @@
 # Audio
 $(call inherit-product, vendor/extras/audio/audio.mk)
 
+# Bootanimation
+TARGET_SCREEN_WIDTH ?= 1080
+TARGET_SCREEN_HEIGHT ?= 1920
+PRODUCT_PACKAGES += \
+    bootanimation.zip
+
 # ColorBucket
 include vendor/extras/colorbucket.mk
 
