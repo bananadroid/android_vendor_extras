@@ -34,6 +34,9 @@ include packages/apps/Plugins/plugins.mk
 # QS tile styles
 include vendor/extras/qstiles.mk
 
+# Rounded styles
+include vendor/extras/rounded.mk
+
 # StatusBar and Wifi Style
 include vendor/extras/icons.mk
 
