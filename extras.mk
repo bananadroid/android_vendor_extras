@@ -1,6 +1,3 @@
-# Audio
-$(call inherit-product, vendor/extras/audio/audio.mk)
-
 # Bootanimation
 TARGET_SCREEN_WIDTH ?= 1080
 TARGET_SCREEN_HEIGHT ?= 1920
@@ -161,3 +158,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
+
+# Sounds
+$(call inherit-product, vendor/extras/sounds/sounds.mk)
