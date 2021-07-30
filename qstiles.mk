@@ -18,5 +18,4 @@ PRODUCT_PACKAGES += \
     QStileCircleOutline \
     QStileIconAccent \
     QStileMonoGradient \
-    QStileGradient \
-    QStilePureAccent
+    QStileGradient
