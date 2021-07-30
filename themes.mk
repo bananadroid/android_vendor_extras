@@ -17,9 +17,6 @@ PRODUCT_PACKAGE_OVERLAYS += \
 # Cutout
 include vendor/extras/cutout.mk
 
-# GVisual
-include vendor/extras/gvisual.mk
-
 # Icon Shapes
 include vendor/extras/iconshapes.mk
 
