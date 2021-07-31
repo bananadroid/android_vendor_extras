@@ -13,4 +13,7 @@
 <resources>
      <!-- Config to enable/diaable qs tile tinting -->
     <bool name="config_enable_qs_tile_tinting">true</bool>
+
+    <!-- Whether to use the mask for the quicksettings icons-->
+    <bool name="config_useMaskForQs">false</bool>
  </resources>
