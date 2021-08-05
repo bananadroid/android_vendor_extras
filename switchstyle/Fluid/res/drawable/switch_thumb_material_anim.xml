@@ -15,7 +15,10 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_checked="true">
         <shape android:visible="true" android:shape="oval" android:useLevel="false">
-            <solid android:color="?android:attr/colorAccent" />
+            <gradient
+                android:startColor="@*android:color/gradient_start"
+                android:endColor="@*android:color/gradient_end"
+                android:angle="45"/>
             <corners android:radius="24dp" />
             <size android:height="20dp" android:width="20dp" />
             <stroke android:width="8dp" android:color="@*android:color/transparent" />

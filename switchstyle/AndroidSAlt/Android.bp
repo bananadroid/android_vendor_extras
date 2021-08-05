@@ -15,8 +15,8 @@
 //
 
 runtime_resource_overlay {
-    name: "SwitchStockish",
-    theme: "SwitchStockish",
+    name: "SwitchAndroidSAlt",
+    theme: "SwitchAndroidSAlt",
     sdk_version: "current",
     product_specific: true,
 }

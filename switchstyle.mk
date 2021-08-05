@@ -1,11 +1,11 @@
 # Switch themes
 PRODUCT_PACKAGES += \
+    SwitchAndroidS \
+    SwitchAndroidSAlt \
     SwitchContained \
-    SwitchTelegram \
-    SwitchRetro \
-    SwitchMD2 \
-    SwitchOnePlus \
-    SwitchNarrow \
-    SwitchStockish \
+    SwitchDefault \
     SwitchFluid \
-    SwitchAndroidS
+    SwitchMD2 \
+    SwitchNarrow \
+    SwitchOnePlus \
+    SwitchTelegram

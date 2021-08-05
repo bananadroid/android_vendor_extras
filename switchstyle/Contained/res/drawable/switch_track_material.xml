@@ -41,7 +41,10 @@
             <item android:gravity="fill_horizontal|center">
                 <shape android:shape="rectangle">
                     <corners android:radius="99.0dip"/>
-                    <solid android:color="?android:colorControlActivated"/>
+                    <gradient 
+                    android:startColor="@*android:color/gradient_start"
+                    android:endColor="@*android:color/gradient_end"
+                    android:angle="45"/>
                     <size android:height="22.0dip"/>
                 </shape>
             </item>

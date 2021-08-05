@@ -29,8 +29,11 @@
     <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
       <item android:gravity="center">
         <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
-          <solid android:color="?android:colorAccent"/>
-          <stroke android:width="2dp" android:color="?android:colorAccent"/>
+          <gradient 
+            android:startColor="@*android:color/gradient_start"
+            android:endColor="@*android:color/gradient_end"
+            android:angle="45"/>
+          <stroke android:width="2dp" android:color="@*android:color/transparent"/>
           <size android:width="18dp" android:height="18dp"/>
         </shape>
       </item>

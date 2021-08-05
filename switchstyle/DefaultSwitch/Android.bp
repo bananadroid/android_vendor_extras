@@ -15,8 +15,8 @@
 //
 
 runtime_resource_overlay {
-    name: "SwitchRetro",
-    theme: "SwitchRetro",
+    name: "SwitchDefault",
+    theme: "SwitchDefault",
     sdk_version: "current",
     product_specific: true,
 }
