@@ -7,8 +7,37 @@ TARGET_SCREEN_HEIGHT ?= 1920
 PRODUCT_PACKAGES += \
     bootanimation.zip
 
+# Brightness sliders Styles
+PRODUCT_PACKAGES += \
+    BrightnessTypeA \
+    BrightnessTypeB \
+    BrightnessTypeC \
+    BrightnessTypeD  
+
 # ColorBucket
-include vendor/extras/colorbucket.mk
+PRODUCT_PACKAGES += \
+    SystemRavenBlackOverlay \
+    SystemUIRavenBlackOverlay \
+    SystemDarkGrayOverlay \
+    SystemUIDarkGrayOverlay \
+    SystemStyleOverlay \
+    SystemUIStyleOverlay \
+    SystemNightOverlay \
+    SystemUINightOverlay \
+    SystemSolarizedDarkOverlay \
+    SystemUISolarizedDarkOverlay \
+    SystemMaterialOceanOverlay \
+    SystemUIMaterialOceanOverlay \
+    SystemBakedGreenOverlay \
+    SystemUIBakedGreenOverlay \
+    SystemChocoXOverlay \
+    SystemUIChocoXOverlay \
+    SystemDarkAubergineOverlay \
+    SystemUIDarkAubergineOverlay \
+    SystemClearSpringOverlay \
+    SystemUIClearSpringOverlay
+
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/extras/colorbucket
 
 # Copy fonts to system
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/extras/fonts,$(TARGET_COPY_OUT_SYSTEM)/fonts)
@@ -17,14 +46,29 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/extras/fonts,$(TARG
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/extras/customicons
 
-# Cutout
-include vendor/extras/cutout.mk
+# Cutout control overlays
+PRODUCT_PACKAGES += \
+    HideCutout \
+    StatusBarStock
 
 # Icon Shapes
-include vendor/extras/iconshapes.mk
+PRODUCT_PACKAGES += \
+    IconShapeCloudyOverlay \
+    IconShapeCylindricalOverlay \
+    IconShapeLeafOverlay \
+    IconShapeStretchedOverlay
 
-# Navbar
-include vendor/extras/navbar.mk
+# Navbar styles
+PRODUCT_PACKAGES += \
+    NavbarAsusOverlay \
+    NavbarOnePlusOverlay \
+    NavbarOneUiOverlay \
+    NavbarTecnoCamonOverlay \
+    NavbarAndroidOverlay \
+    NavbarMotoOverlay \
+    NavbarNexusOverlay \
+    NavbarOldOverlay \
+    NavbarSammyOverlay
 
 # Offline charger
 PRODUCT_PACKAGES += \
@@ -34,24 +78,77 @@ PRODUCT_PACKAGES += \
 # Potato volume panels
 include packages/apps/Plugins/plugins.mk
 
-# QS brightness slider styles
-include vendor/extras/brightness.mk
+# QS panel background
+PRODUCT_PACKAGES += \
+    PanelBgBatik \
+    PanelBgKece \
+    PanelBgOutline
 
-# QS panel background style
-include vendor/extras/panelbg.mk
+# QS Tile Styles
+PRODUCT_PACKAGES += \
+    QStileDefault \
+    QStileDualTone \
+    QStileDualToneTrim \
+    QStileAttemptMountain \
+    QStileDottedCircle \
+    QStileNinja \
+    QStileWavey \
+    QStileCookie \
+    QStileInkDrop \
+    QStileSquaremedo \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileNeonLight \
+    QStileTriangles \
+    QStileTrim \
+    QStileCircleOutline \
+    QStileIconAccent \
+    QStileMonoGradient \
+    QStileGradient
 
-# QS tile styles
-include vendor/extras/qstiles.mk
+# Rounded Styles
+PRODUCT_PACKAGES += \
+    StockRounded \
+    NoneRounded \
+    SlightRounded \
+    MediumRounded \
+    HighRounded \
+    ExtremeRounded
 
-# Rounded styles
-include vendor/extras/rounded.mk
-
-# StatusBar and Wifi Style
-include vendor/extras/icons.mk
+# Statusbar Icons
+PRODUCT_PACKAGES += \
+    StrokeSignalOverlay \
+    SneakySignalOverlay \
+    XperiaSignalOverlay \
+    ZigZagSignalOverlay \
+    WavySignalOverlay \
+    RoundSignalOverlay \
+    InsideSignalOverlay \
+    BarsSignalOverlay
 
 # Stub
 PRODUCT_PACKAGES += \
     BananaThemesStub
 
-# Switch themes
-include vendor/extras/switchstyle.mk
+# Switch styles
+PRODUCT_PACKAGES += \
+    SwitchAndroidS \
+    SwitchAndroidSAlt \
+    SwitchContained \
+    SwitchDefault \
+    SwitchFluid \
+    SwitchMD2 \
+    SwitchNarrow \
+    SwitchOnePlus \
+    SwitchTelegram
+
+# Wi-Fi Icons
+PRODUCT_PACKAGES += \
+    StrokeWiFiOverlay \
+    SneakyWiFiOverlay \
+    XperiaWiFiOverlay \
+    ZigZagWiFiOverlay \
+    WavyWiFiOverlay \
+    RoundWiFiOverlay \
+    InsideWiFiOverlay \
+    BarsWiFiOverlay
