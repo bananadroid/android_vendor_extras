@@ -96,6 +96,9 @@ PRODUCT_PACKAGES += \
     IconPackOOSSettingsOverlay \
     IconPackOOSSystemUIOverlay \
     IconPackOOSThemePickerOverlay \
+    IconPackOutlineAndroidOverlay \
+    IconPackOutlineSettingsOverlay \
+    IconPackOutlineSystemUIOverlay \
     IconPackAcherusAndroidOverlay \
     IconPackAcherusSystemUIOverlay
 
