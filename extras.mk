@@ -145,10 +145,14 @@ PRODUCT_PACKAGES += \
     NavigationBarNoHintOverlay \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium \
+    NavbarAndroidOverlay \
     NavbarAsusOverlay \
+    NavbarMotoOverlay \
+    NavbarNexusOverlay \
+    NavbarOldOverlay \
     NavbarOnePlusOverlay \
     NavbarOneUiOverlay \
-    NavbarStockOverlay \
+    NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
 # Offline charger
