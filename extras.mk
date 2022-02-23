@@ -189,5 +189,6 @@ $(call inherit-product, vendor/extras/sounds/sounds.mk)
 # UDFPS
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
-    UdfpsResources
+    UdfpsIcons \
+    UdfpsAnimations
 endif
