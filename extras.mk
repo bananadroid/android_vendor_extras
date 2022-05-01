@@ -134,6 +134,7 @@ PRODUCT_PACKAGES += \
 	StrokeWiFiOverlay \
 	WavySignalOverlay \
 	WavyWiFiOverlay \
+	WeedWiFiOverlay \
 	XperiaSignalOverlay \
 	XperiaWiFiOverlay \
 	ZigZagSignalOverlay \
