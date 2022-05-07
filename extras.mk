@@ -121,24 +121,48 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
 
-# Icons Signal / Wifi
+# Icons Signal
 PRODUCT_PACKAGES += \
-	BarsSignalOverlay \
+        AquariumSignalOverlay \
+        BarsSignalOverlay \
+        ButterflySignalOverlay \
+        CircleSignalOverlay \
+        DaunSignalOverlay \
+        DecSignalOverlay \
+        DeepSignalOverlay \
+        EqualSignalOverlay \
+        FanSignalOverlay \
+        HuaweiSignalOverlay \
+        InsideSignalOverlay \
+        IosSignalOverlay \
+        MiniSignalOverlay \
+        OdinSignalOverlay \
+        PillsSignalOverlay \
+        RelSignalOverlay \
+        RomanSignalOverlay \
+        RoundSignalOverlay \
+        ScrollSignalOverlay \
+        SeaSignalOverlay \
+        SneakySignalOverlay \
+        StackSignalOverlay \
+        StrokeSignalOverlay \
+        WannuiSignalOverlay \
+        WavySignalOverlay \
+        WindowsSignalOverlay \
+        WingSignalOverlay \
+        XperiaSignalOverlay \
+        ZigZagSignalOverlay
+
+# Icons Wifi
+PRODUCT_PACKAGES += \
 	BarsWiFiOverlay \
-	InsideSignalOverlay \
 	InsideWiFiOverlay \
-	RoundSignalOverlay \
 	RoundWiFiOverlay \
-	SneakySignalOverlay \
 	SneakyWiFiOverlay \
-	StrokeSignalOverlay \
 	StrokeWiFiOverlay \
-	WavySignalOverlay \
 	WavyWiFiOverlay \
 	WeedWiFiOverlay \
-	XperiaSignalOverlay \
 	XperiaWiFiOverlay \
-	ZigZagSignalOverlay \
 	ZigZagWiFiOverlay
 
 # Navbar
