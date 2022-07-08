@@ -1,6 +1,0 @@
-runtime_resource_overlay {
-    name: "QStileTrim",
-    theme: "QStileTrim",
-    sdk_version: "current",
-    product_specific: true
-}

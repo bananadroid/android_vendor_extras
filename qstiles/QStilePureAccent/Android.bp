@@ -1,6 +1,0 @@
-runtime_resource_overlay {
-    name: "QStilePureAccent",
-    theme: "QStilePureAccent",
-    sdk_version: "current",
-    product_specific: true
-}
