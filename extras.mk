@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNothiingDotOverlay \
+    FontNothingDotHeadlineOverlay \
     FontNunitoOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
