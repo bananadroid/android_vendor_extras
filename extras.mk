@@ -105,12 +105,18 @@ PRODUCT_PACKAGES += \
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
+    IconShapeCloudyRoundedOverlay \
     IconShapeCylinderOverlay \
+    IconShapeCylinderRoundedOverlay \
     IconShapeFlowerOverlay \
+    IconShapeFlowerRoundedOverlay \
     IconShapeHeartOverlay \
+    IconShapeHeartRoundedOverlay \
     IconShapeHexagonOverlay \
-    IconShapeLeafOverlay \
+    IconShapeLeafRoundedOverlay \
     IconShapeMeowOverlay \
+    IconShapePebbleRoundedOverlay \
+    IconShapeLeafOverlay \
     IconShapePebbleOverlay \
     IconShapeRoundedHexagonOverlay \
     IconShapeRoundedRectOverlay \
@@ -119,7 +125,10 @@ PRODUCT_PACKAGES += \
     IconShapeStretchedOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
-    IconShapeVesselOverlay
+    IconShapeVesselOverlay \
+    DefaultButSquareOverlay \
+    GoogleShapesOverlay \
+    RiceShapesOverlay
 
 # Icons Signal
 PRODUCT_PACKAGES += \
