@@ -143,8 +143,6 @@ PRODUCT_PACKAGES += \
 # Navbar
 PRODUCT_PACKAGES += \
     NavigationBarNoHintOverlay \
-    GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium \
     NavbarAndroidOverlay \
     NavbarAsusOverlay \
     NavbarMotoOverlay \
