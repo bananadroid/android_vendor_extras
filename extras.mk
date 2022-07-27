@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
     FontLatoOverlay \
     FontLGSmartGothicOverlay \
     FontLinotteOverlay \
+    FontMiSansOverlay \
     FontNokiaPureOverlay \
     FontNunitoOverlay \
     FontOneplusSansOverlay \
