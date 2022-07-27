@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
+    FontFluidSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontInterOverlay \
