@@ -18,6 +18,7 @@
 
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
+        <item>udfps_icon_bananadroid</item>
         <item>udfps_icon_evo</item>
         <item>udfps_icon_miui</item>
         <item>udfps_icon_op</item>
