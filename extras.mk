@@ -130,7 +130,8 @@ PRODUCT_PACKAGES += \
     DefaultButBouncyOverlay \
     GoogleShapesOverlay \
     RiceBallsOverlay \
-    OutlineShapesOverlay
+    OutlineShapesOverlay \
+    RoundedOutlineShapesOverlay
 
 # Icons Signal
 PRODUCT_PACKAGES += \
