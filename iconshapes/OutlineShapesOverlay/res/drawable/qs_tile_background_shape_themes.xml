@@ -19,7 +19,7 @@
     <item>
       <inset android:inset="0dp">
         <shape android:shape="rectangle">
-            <stroke android:width="@*android:dimen/custom_rounded_slider_track_width" android:color="#ffffffff" />
+            <stroke android:width="2dp" android:color="#ffffffff" />
             <corners android:radius="@*android:dimen/custom_qs_tile_bg_radius" />
             <solid android:color="#80ffffff" />
         </shape>
