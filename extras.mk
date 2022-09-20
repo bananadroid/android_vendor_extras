@@ -184,6 +184,12 @@ PRODUCT_PACKAGES += \
 	XperiaWiFiOverlay \
 	ZigZagWiFiOverlay
 
+# QS Panel
+PRODUCT_PACKAGES += \
+    QSRoundedRectangle \
+    QSOutline \
+    QSTwoToneAccent
+
 # Lockscreen clock fonts 
 PRODUCT_PACKAGES += \
     ClockFontGoogleSansOverlay \
