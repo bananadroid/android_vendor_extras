@@ -134,11 +134,7 @@ PRODUCT_PACKAGES += \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
     DefaultButSquareOverlay \
-    DefaultButBouncyOverlay \
-    GoogleShapesOverlay \
-    RiceBallsOverlay \
-    OutlineShapesOverlay \
-    RoundedOutlineShapesOverlay
+    RiceBallsOverlay
 
 # Icons Signal
 PRODUCT_PACKAGES += \
