@@ -310,6 +310,7 @@ PRODUCT_PACKAGES += \
     AndroidVividThemeOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
+    DarkBgOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
