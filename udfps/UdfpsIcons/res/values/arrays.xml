@@ -19,6 +19,7 @@
    <string-array name="udfps_icons">
         <item>udfps_icon_default</item>
         <item>udfps_icon_bananadroid</item>
+        <item>udfps_icon_bananadroid1</item>
         <item>udfps_icon_misc1</item>
         <item>udfps_icon_misc2</item>
         <item>udfps_icon_misc3</item>
@@ -59,6 +60,8 @@
         <item>udfps_icon_scratch_red_blue</item>
         <item>udfps_icon_shooky</item>
         <item>udfps_icon_spiderman</item>
+        <item>udfps_icon_spiderman1</item>
+        <item>udfps_icon_spiderman2</item>
         <item>udfps_icon_spiral_blue</item>
         <item>udfps_icon_sun_metro</item>
         <item>udfps_misc_1</item>
