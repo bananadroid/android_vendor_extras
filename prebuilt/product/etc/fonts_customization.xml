@@ -69,6 +69,13 @@
     <alias name="coolstory-semi-bold" to="coolstory" weight="600" />
     <alias name="coolstory-bold" to="coolstory" weight="700" />
 
+    <!-- DotCom -->
+    <family customizationType="new-named-family" name="dotcom">
+        <font weight="400" style="normal">Dotcom.ttf</font>
+    </family>
+    <alias name="dotcom-semi-bold" to="dotcom" weight="600" />
+    <alias name="dotcom-bold" to="dotcom" weight="700" />
+
     <!-- Exotwo -->
     <family customizationType="new-named-family" name="exotwo">
         <font weight="400" style="normal">Exotwo.ttf</font>

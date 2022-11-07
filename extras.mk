@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     FontComfortaaOverlay \
     FontComicSansOverlay \
     FontCoolstoryOverlay \
+    FontDotcomOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
