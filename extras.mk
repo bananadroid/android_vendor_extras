@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontInterOverlay \
+    FontJTLeonorOverlay \
     FontLatoOverlay \
     FontLGSmartGothicOverlay \
     FontLinotteOverlay \
