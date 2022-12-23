@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "IconPackOOSLauncherOverlay",
-    theme: "IconPackOOSLauncher",
+    name: "IconPackOOSSettingsOverlay",
+    theme: "IconPackOOSSettings",
     product_specific: true,
 }

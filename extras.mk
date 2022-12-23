@@ -92,7 +92,6 @@ PRODUCT_PACKAGES += \
     IconPackPUILauncherOverlay \
     IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
-    IconPackPUIThemePickerOverlay \
     IconPackRoundedAndroidOverlay \
     IconPackRoundedLauncherOverlay \
     IconPackRoundedSettingsOverlay \
@@ -104,10 +103,16 @@ PRODUCT_PACKAGES += \
     IconPackOOSSystemUIOverlay \
     IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
+    IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
     IconPackOutlineSystemUIOverlay \
     IconPackAcherusAndroidOverlay \
-    IconPackAcherusSystemUIOverlay
+    IconPackAcherusLauncherOverlay \
+    IconPackAcherusSettingsOverlay \
+    IconPackAcherusSystemUIOverlay \
+    IconPackXperiaAndroidOverlay \
+    IconPackXperiaSettingsOverlay \
+    IconPackXperiaSystemUIOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
