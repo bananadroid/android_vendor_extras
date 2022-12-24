@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
-    IconPackCircularSettingsOverlay \
     IconPackCircularSystemUIOverlay \
     IconPackCircularThemePickerOverlay \
     IconPackVictorAndroidOverlay \
@@ -90,7 +89,6 @@ PRODUCT_PACKAGES += \
     IconPackFilledThemePickerOverlay \
     IconPackPUIAndroidOverlay \
     IconPackPUILauncherOverlay \
-    IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackRoundedAndroidOverlay \
     IconPackRoundedLauncherOverlay \
@@ -108,7 +106,6 @@ PRODUCT_PACKAGES += \
     IconPackOutlineSystemUIOverlay \
     IconPackAcherusAndroidOverlay \
     IconPackAcherusLauncherOverlay \
-    IconPackAcherusSettingsOverlay \
     IconPackAcherusSystemUIOverlay \
     IconPackXperiaAndroidOverlay \
     IconPackXperiaSettingsOverlay \
