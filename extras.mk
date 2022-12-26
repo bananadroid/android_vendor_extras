@@ -197,6 +197,38 @@ $(call inherit-product, vendor/extras/sounds/sounds.mk)
 PRODUCT_PACKAGES += \
     BananaThemesStub
 
+# Themes
+PRODUCT_PACKAGES += \
+    UnmonetThemeAndroidOverlay \
+    UnmonetThemeSettingsOverlay \
+    NexodusThemeAndroidOverlay \
+    NexodusThemeSettingsOverlay \
+    NexodusThemeSystemUIOverlay \
+    ProjectOptronicThemeAndroidOverlay \
+    ProjectOptronicThemeSettingsOverlay \
+    ProjectOptronicThemeSystemUIOverlay \
+    PacleggersThemeAndroidOverlay \
+    PacleggersThemeSettingsOverlay \
+    PacleggersThemeSystemUIOverlay \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay \
+    ShishuIllusionsThemeAndroidOverlay \
+    ShishuIllusionsThemeSettingsOverlay \
+    ShishuIllusionsThemeSystemUIOverlay \
+    ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay \
+    ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay
+
 # UDFPS
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
