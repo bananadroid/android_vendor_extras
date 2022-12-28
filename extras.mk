@@ -361,6 +361,8 @@ PRODUCT_PACKAGES += \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
     AndroidVividThemeOverlay \
+    AndroidEspressoThemeOverlay \
+    AndroidSnowPaintDropThemeOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
