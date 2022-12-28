@@ -200,6 +200,8 @@ PRODUCT_PACKAGES += \
 # Themes
 PRODUCT_PACKAGES += \
     AndroidVividThemeOverlay \
+    AndroidEspressoThemeOverlay \
+    AndroidSnowPaintDropThemeOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
