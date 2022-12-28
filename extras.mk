@@ -199,6 +199,7 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
+    AndroidVividThemeOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
