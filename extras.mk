@@ -360,6 +360,7 @@ PRODUCT_PACKAGES += \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
+    AndroidClearThemeOverlay \
     AndroidVividThemeOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
