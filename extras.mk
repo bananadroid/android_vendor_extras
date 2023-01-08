@@ -20,7 +20,7 @@ PRODUCT_PACKAGES += \
     FontComfortaaOverlay \
     FontComicSansOverlay \
     FontCoolstoryOverlay \
-    FontDotcomOverlay \
+    FontDotComOverlay \
     FontExotwoOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
@@ -189,8 +189,13 @@ PRODUCT_PACKAGES += \
     ClockFontBikoOverlay \
     ClockFontGinoraSansOverlay \
     ClockFontRivieraOverlay \
-    ClockFontSedgwickAveOverlay \
-    ClockFontUnionOverlay
+    ClockFontUnionOverlay \
+    ClockFontArcadeInterlacedOverlay \
+    ClockFontDotComOverlay \
+    ClockFontKarmaticArcadeOverlay \
+    ClockFontLiquidCrystalOverlay \
+    ClockFontV5PRFOverlay \
+    ClockFontZeroFourOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
