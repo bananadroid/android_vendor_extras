@@ -1,8 +1,5 @@
 # Bootanimation
-TARGET_SCREEN_WIDTH ?= 1080
-TARGET_SCREEN_HEIGHT ?= 1920
-PRODUCT_PACKAGES += \
-    bootanimation.zip
+include vendor/extras/bootanimation/bootanimation.mk
 
 # Custom Icons
 PRODUCT_PACKAGE_OVERLAYS += \
