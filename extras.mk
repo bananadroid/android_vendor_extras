@@ -13,6 +13,7 @@ PRODUCT_PACKAGES += \
     FontAmaranteOverlay \
     FontBariolOverlay \
     FontCagliostroOverlay \
+    FontCircularStdOverlay \
     FontCoconOverlay \
     FontComfortaaOverlay \
     FontComicSansOverlay \
