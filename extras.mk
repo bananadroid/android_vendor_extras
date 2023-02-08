@@ -186,7 +186,13 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     QSRoundedRectangle \
     QSOutline \
-    QSTwoToneAccent
+    QSTwoToneAccent \
+    QSShaded \
+    QSCyberPunk \
+    QSNeumorph \
+    QSReflected \
+    QSSurround \
+    QSThin
 
 # Lockscreen clock fonts 
 PRODUCT_PACKAGES += \
