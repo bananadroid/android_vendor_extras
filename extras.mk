@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
     FontExotwoOverlay \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
+    FontFucekSourceOverlay \
     FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
