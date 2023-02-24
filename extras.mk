@@ -142,14 +142,17 @@ PRODUCT_PACKAGES += \
 # Icons Signal
 PRODUCT_PACKAGES += \
         AquariumSignalOverlay \
+        BananaSignalOverlay \
         BarsSignalOverlay \
         ButterflySignalOverlay \
         CircleSignalOverlay \
         DaunSignalOverlay \
         DecSignalOverlay \
         DeepSignalOverlay \
+        DottedSignalOverlay \
         EqualSignalOverlay \
         FanSignalOverlay \
+        HeartbeatSignalOverlay \
         HuaweiSignalOverlay \
         InsideSignalOverlay \
         IosSignalOverlay \
@@ -159,6 +162,7 @@ PRODUCT_PACKAGES += \
         RelSignalOverlay \
         RomanSignalOverlay \
         RoundSignalOverlay \
+        ROGSignalOverlay \
         ScrollSignalOverlay \
         SeaSignalOverlay \
         SneakySignalOverlay \
