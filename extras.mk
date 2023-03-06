@@ -239,6 +239,46 @@ PRODUCT_PACKAGES += \
     ClockFontRubikGlitchOverlay \
     ClockFontTourneyMediumOverlay
 
+# Lockscreen date fonts 
+PRODUCT_PACKAGES += \
+    DateFontGoogleSansOverlay \
+    DateFontNothingDotOverlay \
+    DateFontAdventProOverlay \
+    DateFontBigNoodleTiltingOverlay \
+    DateFontCherrySwashOverlay \
+    DateFontHeadlineOverlay \
+    DateFontRoadRageOverlay \
+    DateFontSnowstormOverlay \
+    DateFontViburOverlay \
+    DateFontAlienLeagueOverlay \
+    DateFontBikoOverlay \
+    DateFontGinoraSansOverlay \
+    DateFontRivieraOverlay \
+    DateFontUnionOverlay \
+    DateFontArcadeInterlacedOverlay \
+    DateFontDotComOverlay \
+    DateFontKarmaticArcadeOverlay \
+    DateFontLiquidCrystalOverlay \
+    DateFontV5PRFOverlay \
+    DateFontZeroFourOverlay \
+    DateFontOdibeeSansOverlay \
+    DateFontPermanentMarkerOverlay \
+    DateFontVG5000Overlay \
+    DateFont3DIsometricBlackOverlay \
+    DateFont3DIsometricBoldOverlay \
+    DateFontBalticBoddenOverlay \
+    DateFontBalticCoastOverlay \
+    DateFontBalticDuneOverlay \
+    DateFontBalticStormOverlay \
+    DateFontCafe24DecoshadowOverlay \
+    DateFontFortaOverlay \
+    DateFontMuseoModernoOverlay \
+    DateFontMXWasgardOverlay \
+    DateFontNeptunCATOverlay \
+    DateFontProdeltCoOverlay \
+    DateFontRubikGlitchOverlay \
+    DateFontTourneyMediumOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
