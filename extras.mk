@@ -197,6 +197,7 @@ PRODUCT_PACKAGES += \
     QSRoundedRectangle \
     QSOutline \
     QSTwoToneAccent \
+    QSTwoToneAccentTrans \
     QSShaded \
     QSCyberPunk \
     QSNeumorph \
