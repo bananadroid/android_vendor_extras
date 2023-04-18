@@ -299,10 +299,6 @@ PRODUCT_PACKAGES += \
 # Sounds
 $(call inherit-product, vendor/extras/sounds/sounds.mk)
 
-# Stub
-PRODUCT_PACKAGES += \
-    BananaThemesStub
-
 # Themes
 PRODUCT_PACKAGES += \
     AndroidClearThemeOverlay \
