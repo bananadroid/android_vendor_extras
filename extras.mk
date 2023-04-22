@@ -205,6 +205,10 @@ PRODUCT_PACKAGES += \
     QSSurround \
     QSThin
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
 # Lockscreen clock fonts 
 PRODUCT_PACKAGES += \
     ClockFontGoogleSansOverlay \

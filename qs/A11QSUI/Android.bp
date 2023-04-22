@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "A11QSUI",
+    theme: "A11QSUI",
+    product_specific: true,
+}
+
