@@ -21,4 +21,8 @@
 
     <!-- Music player divider -->
     <color name="media_divider">#00000000</color>
+
+    <!-- Navbar pill color -->
+    <color name="navigation_bar_home_handle_light_color">@android:color/system_accent1_200</color>
+    <color name="navigation_bar_home_handle_dark_color">@android:color/system_accent1_200</color>
 </resources>
