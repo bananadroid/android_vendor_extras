@@ -207,7 +207,8 @@ PRODUCT_PACKAGES += \
 
 # QS UI Style
 PRODUCT_PACKAGES += \
-    A11QSUI
+    A11QSUI \
+    ReevaluateSysUIOverlay
 
 # Lockscreen clock fonts 
 PRODUCT_PACKAGES += \
