@@ -3,6 +3,8 @@ include vendor/extras/bootanimation/bootanimation.mk
 
 # Brightness slider styles
 PRODUCT_PACKAGES += \
+    BrightnessSliderAcunOverlay \
+    BrightnessSliderBangOverlay \
     BrightnessSliderFilledOverlay \
     BrightnessSliderThinOverlay
 
