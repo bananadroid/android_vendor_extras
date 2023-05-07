@@ -312,9 +312,6 @@ PRODUCT_PACKAGES += \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
     DarkBgOverlay \
-    NexodusThemeAndroidOverlay \
-    NexodusThemeSettingsOverlay \
-    NexodusThemeSystemUIOverlay \
     PacleggersThemeAndroidOverlay \
     PacleggersThemeSettingsOverlay \
     PacleggersThemeSystemUIOverlay \
