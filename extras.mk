@@ -134,7 +134,15 @@ PRODUCT_PACKAGES += \
     IconPackAcherusSystemUIOverlay \
     IconPackXperiaAndroidOverlay \
     IconPackXperiaSettingsOverlay \
-    IconPackXperiaSystemUIOverlay
+    IconPackXperiaSystemUIOverlay \
+    IconPackAuroraAndroidOverlay \
+    IconPackAuroraSystemUIOverlay \
+    IconPackGradiconAndroidOverlay \
+    IconPackGradiconSystemUIOverlay \
+    IconPackLornAndroidOverlay \
+    IconPackLornSystemUIOverlay \
+    IconPackPlumpySystemUIOverlay \
+    IconPackPlumpyAndroidOverlay
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
@@ -197,7 +205,11 @@ PRODUCT_PACKAGES += \
 #        WindowsSignalOverlay \
 #        WingSignalOverlay \
 #        XperiaSignalOverlay \
-#        ZigZagSignalOverlay
+#        ZigZagSignalOverlay \
+#        AuroraSignalOverlay \
+#        ForlornSignalOverlay \
+#        PlumpySignalOverlay \
+#        FaintUISignalOverlay
 
 # Icons Wifi
 #PRODUCT_PACKAGES += \
@@ -209,7 +221,11 @@ PRODUCT_PACKAGES += \
 #	WavyWiFiOverlay \
 #	WeedWiFiOverlay \
 #	XperiaWiFiOverlay \
-#	ZigZagWiFiOverlay
+#	ZigZagWiFiOverlay \
+#       ForlornWiFiOverlay \
+#       AuroraWiFiOverlay \
+#       PlumpyWiFiOverlay \
+#       FaintUIWiFiOverlay
 
 # QS Panel
 #PRODUCT_PACKAGES += \
