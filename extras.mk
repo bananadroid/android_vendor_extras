@@ -12,6 +12,22 @@ include vendor/extras/bootanimation/bootanimation.mk
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/extras/customicons
 
+# Data icons
+PRODUCT_PACKAGES += \
+    AuroraDataOverlay \
+    FaintUIDataOverlay \
+    GradiconDataOverlay \
+    LornDataOverlay \
+    PlumpyDataOverlay
+
+# Icon Data
+PRODUCT_PACKAGES += \
+    IconDataFive \
+    IconDataFour \
+    IconDataOne \
+    IconDataThree \
+    IconDataTwo
+
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
