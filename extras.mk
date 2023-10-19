@@ -342,6 +342,16 @@ PRODUCT_PACKAGES += \
 # Sounds
 $(call inherit-product, vendor/extras/sounds/sounds.mk)
 
+# SystemUI clocks
+PRODUCT_PACKAGES += \
+    SystemUIClocks-BigNum \
+    SystemUIClocks-Calligraphy \
+    SystemUIClocks-Flex \
+    SystemUIClocks-Growth \
+    SystemUIClocks-Handwritten \
+    SystemUIClocks-Inflate \
+    SystemUIClocks-NumOverlap
+
 # UDFPS
 #ifeq ($(TARGET_HAS_UDFPS),true)
 #PRODUCT_PACKAGES += \
