@@ -2,11 +2,11 @@
 include vendor/extras/bootanimation/bootanimation.mk
 
 # Brightness slider styles
-PRODUCT_PACKAGES += \
-    BrightnessSliderAcunOverlay \
-    BrightnessSliderBangOverlay \
-    BrightnessSliderFilledOverlay \
-    BrightnessSliderThinOverlay
+#PRODUCT_PACKAGES += \
+#    BrightnessSliderAcunOverlay \
+#    BrightnessSliderBangOverlay \
+#    BrightnessSliderFilledOverlay \
+#    BrightnessSliderThinOverlay
 
 # Custom Icons
 PRODUCT_PACKAGE_OVERLAYS += \
@@ -159,162 +159,162 @@ PRODUCT_PACKAGES += \
     RiceBallsOverlay
 
 # Icons Signal
-PRODUCT_PACKAGES += \
-        AquariumSignalOverlay \
-        BananaSignalOverlay \
-        BarsSignalOverlay \
-        ButterflySignalOverlay \
-        CircleSignalOverlay \
-        DaunSignalOverlay \
-        DecSignalOverlay \
-        DeepSignalOverlay \
-        DottedSignalOverlay \
-        EqualSignalOverlay \
-        FanSignalOverlay \
-        HeartbeatSignalOverlay \
-        HuaweiSignalOverlay \
-        InsideSignalOverlay \
-        IosSignalOverlay \
-        MiniSignalOverlay \
-        OdinSignalOverlay \
-        PillsSignalOverlay \
-        RelSignalOverlay \
-        RomanSignalOverlay \
-        RoundSignalOverlay \
-        ROGSignalOverlay \
-        ScrollSignalOverlay \
-        SeaSignalOverlay \
-        SneakySignalOverlay \
-        StackSignalOverlay \
-        StrokeSignalOverlay \
-        WannuiSignalOverlay \
-        WavySignalOverlay \
-        WindowsSignalOverlay \
-        WingSignalOverlay \
-        XperiaSignalOverlay \
-        ZigZagSignalOverlay
+#PRODUCT_PACKAGES += \
+#        AquariumSignalOverlay \
+#        BananaSignalOverlay \
+#        BarsSignalOverlay \
+#        ButterflySignalOverlay \
+#        CircleSignalOverlay \
+#        DaunSignalOverlay \
+#        DecSignalOverlay \
+#        DeepSignalOverlay \
+#        DottedSignalOverlay \
+#        EqualSignalOverlay \
+#        FanSignalOverlay \
+#        HeartbeatSignalOverlay \
+#        HuaweiSignalOverlay \
+#        InsideSignalOverlay \
+#        IosSignalOverlay \
+#        MiniSignalOverlay \
+#        OdinSignalOverlay \
+#        PillsSignalOverlay \
+#        RelSignalOverlay \
+#        RomanSignalOverlay \
+#        RoundSignalOverlay \
+#        ROGSignalOverlay \
+#        ScrollSignalOverlay \
+#        SeaSignalOverlay \
+#        SneakySignalOverlay \
+#        StackSignalOverlay \
+#        StrokeSignalOverlay \
+#        WannuiSignalOverlay \
+#        WavySignalOverlay \
+#        WindowsSignalOverlay \
+#        WingSignalOverlay \
+#        XperiaSignalOverlay \
+#        ZigZagSignalOverlay
 
 # Icons Wifi
-PRODUCT_PACKAGES += \
-	BarsWiFiOverlay \
-	InsideWiFiOverlay \
-	RoundWiFiOverlay \
-	SneakyWiFiOverlay \
-	StrokeWiFiOverlay \
-	WavyWiFiOverlay \
-	WeedWiFiOverlay \
-	XperiaWiFiOverlay \
-	ZigZagWiFiOverlay
+#PRODUCT_PACKAGES += \
+#	BarsWiFiOverlay \
+#	InsideWiFiOverlay \
+#	RoundWiFiOverlay \
+#	SneakyWiFiOverlay \
+#	StrokeWiFiOverlay \
+#	WavyWiFiOverlay \
+#	WeedWiFiOverlay \
+#	XperiaWiFiOverlay \
+#	ZigZagWiFiOverlay
 
 # QS Panel
-PRODUCT_PACKAGES += \
-    QSRoundedRectangle \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin
+#PRODUCT_PACKAGES += \
+#    QSRoundedRectangle \
+#    QSOutline \
+#    QSTwoToneAccent \
+#    QSTwoToneAccentTrans \
+#    QSShaded \
+#    QSCyberPunk \
+#    QSNeumorph \
+#    QSReflected \
+#    QSSurround \
+#    QSThin
 
 # QS UI Style
-PRODUCT_PACKAGES += \
-    A11QSUI \
-    ReevaluateSysUIOverlay
+#PRODUCT_PACKAGES += \
+#    A11QSUI \
+#    ReevaluateSysUIOverlay
 
 # Lockscreen clock fonts 
-PRODUCT_PACKAGES += \
-    ClockFontGoogleSansOverlay \
-    ClockFontNothingDotOverlay \
-    ClockFontAdventProOverlay \
-    ClockFontBigNoodleTiltingOverlay \
-    ClockFontCherrySwashOverlay \
-    ClockFontHeadlineOverlay \
-    ClockFontRoadRageOverlay \
-    ClockFontSnowstormOverlay \
-    ClockFontViburOverlay \
-    ClockFontAlienLeagueOverlay \
-    ClockFontBikoOverlay \
-    ClockFontGinoraSansOverlay \
-    ClockFontRivieraOverlay \
-    ClockFontUnionOverlay \
-    ClockFontArcadeInterlacedOverlay \
-    ClockFontDotComOverlay \
-    ClockFontKarmaticArcadeOverlay \
-    ClockFontLiquidCrystalOverlay \
-    ClockFontV5PRFOverlay \
-    ClockFontZeroFourOverlay \
-    ClockFontOdibeeSansOverlay \
-    ClockFontPermanentMarkerOverlay \
-    ClockFontVG5000Overlay \
-    ClockFont3DIsometricBlackOverlay \
-    ClockFont3DIsometricBoldOverlay \
-    ClockFontBalticBoddenOverlay \
-    ClockFontBalticCoastOverlay \
-    ClockFontBalticDuneOverlay \
-    ClockFontBalticStormOverlay \
-    ClockFontCafe24DecoshadowOverlay \
-    ClockFontFortaOverlay \
-    ClockFontMuseoModernoOverlay \
-    ClockFontMXWasgardOverlay \
-    ClockFontNeptunCATOverlay \
-    ClockFontProdeltCoOverlay \
-    ClockFontRubikGlitchOverlay \
-    ClockFontTourneyMediumOverlay
+#PRODUCT_PACKAGES += \
+#    ClockFontGoogleSansOverlay \
+#    ClockFontNothingDotOverlay \
+#    ClockFontAdventProOverlay \
+#    ClockFontBigNoodleTiltingOverlay \
+#    ClockFontCherrySwashOverlay \
+#    ClockFontHeadlineOverlay \
+#    ClockFontRoadRageOverlay \
+#    ClockFontSnowstormOverlay \
+#    ClockFontViburOverlay \
+#    ClockFontAlienLeagueOverlay \
+#    ClockFontBikoOverlay \
+#    ClockFontGinoraSansOverlay \
+#    ClockFontRivieraOverlay \
+#    ClockFontUnionOverlay \
+#    ClockFontArcadeInterlacedOverlay \
+#    ClockFontDotComOverlay \
+#    ClockFontKarmaticArcadeOverlay \
+#    ClockFontLiquidCrystalOverlay \
+#    ClockFontV5PRFOverlay \
+#    ClockFontZeroFourOverlay \
+#    ClockFontOdibeeSansOverlay \
+#    ClockFontPermanentMarkerOverlay \
+#    ClockFontVG5000Overlay \
+#    ClockFont3DIsometricBlackOverlay \
+#    ClockFont3DIsometricBoldOverlay \
+#    ClockFontBalticBoddenOverlay \
+#    ClockFontBalticCoastOverlay \
+#    ClockFontBalticDuneOverlay \
+#    ClockFontBalticStormOverlay \
+#    ClockFontCafe24DecoshadowOverlay \
+#    ClockFontFortaOverlay \
+#    ClockFontMuseoModernoOverlay \
+#    ClockFontMXWasgardOverlay \
+#    ClockFontNeptunCATOverlay \
+#    ClockFontProdeltCoOverlay \
+#    ClockFontRubikGlitchOverlay \
+#    ClockFontTourneyMediumOverlay
 
 # Lockscreen date fonts 
-PRODUCT_PACKAGES += \
-    DateFontGoogleSansOverlay \
-    DateFontNothingDotOverlay \
-    DateFontAdventProOverlay \
-    DateFontBigNoodleTiltingOverlay \
-    DateFontCherrySwashOverlay \
-    DateFontHeadlineOverlay \
-    DateFontRoadRageOverlay \
-    DateFontSnowstormOverlay \
-    DateFontViburOverlay \
-    DateFontAlienLeagueOverlay \
-    DateFontBikoOverlay \
-    DateFontGinoraSansOverlay \
-    DateFontRivieraOverlay \
-    DateFontUnionOverlay \
-    DateFontArcadeInterlacedOverlay \
-    DateFontDotComOverlay \
-    DateFontKarmaticArcadeOverlay \
-    DateFontLiquidCrystalOverlay \
-    DateFontV5PRFOverlay \
-    DateFontZeroFourOverlay \
-    DateFontOdibeeSansOverlay \
-    DateFontPermanentMarkerOverlay \
-    DateFontVG5000Overlay \
-    DateFont3DIsometricBlackOverlay \
-    DateFont3DIsometricBoldOverlay \
-    DateFontBalticBoddenOverlay \
-    DateFontBalticCoastOverlay \
-    DateFontBalticDuneOverlay \
-    DateFontBalticStormOverlay \
-    DateFontCafe24DecoshadowOverlay \
-    DateFontFortaOverlay \
-    DateFontMuseoModernoOverlay \
-    DateFontMXWasgardOverlay \
-    DateFontNeptunCATOverlay \
-    DateFontProdeltCoOverlay \
-    DateFontRubikGlitchOverlay \
-    DateFontTourneyMediumOverlay
+#PRODUCT_PACKAGES += \
+#    DateFontGoogleSansOverlay \
+#    DateFontNothingDotOverlay \
+#    DateFontAdventProOverlay \
+#    DateFontBigNoodleTiltingOverlay \
+#    DateFontCherrySwashOverlay \
+#    DateFontHeadlineOverlay \
+#    DateFontRoadRageOverlay \
+#    DateFontSnowstormOverlay \
+#    DateFontViburOverlay \
+#    DateFontAlienLeagueOverlay \
+#    DateFontBikoOverlay \
+#    DateFontGinoraSansOverlay \
+#    DateFontRivieraOverlay \
+#    DateFontUnionOverlay \
+#    DateFontArcadeInterlacedOverlay \
+#    DateFontDotComOverlay \
+#    DateFontKarmaticArcadeOverlay \
+#    DateFontLiquidCrystalOverlay \
+#    DateFontV5PRFOverlay \
+#    DateFontZeroFourOverlay \
+#    DateFontOdibeeSansOverlay \
+#    DateFontPermanentMarkerOverlay \
+#    DateFontVG5000Overlay \
+#    DateFont3DIsometricBlackOverlay \
+#    DateFont3DIsometricBoldOverlay \
+#    DateFontBalticBoddenOverlay \
+#    DateFontBalticCoastOverlay \
+#    DateFontBalticDuneOverlay \
+#    DateFontBalticStormOverlay \
+#    DateFontCafe24DecoshadowOverlay \
+#    DateFontFortaOverlay \
+#    DateFontMuseoModernoOverlay \
+#    DateFontMXWasgardOverlay \
+#    DateFontNeptunCATOverlay \
+#    DateFontProdeltCoOverlay \
+#    DateFontRubikGlitchOverlay \
+#    DateFontTourneyMediumOverlay
 
 # Navbar
-PRODUCT_PACKAGES += \
-    NavbarAndroidOverlay \
-    NavbarAsusOverlay \
-    NavbarMotoOverlay \
-    NavbarNexusOverlay \
-    NavbarOldOverlay \
-    NavbarOnePlusOverlay \
-    NavbarOneUiOverlay \
-    NavbarSammyOverlay \
-    NavbarTecnoCamonOverlay
+#PRODUCT_PACKAGES += \
+#    NavbarAndroidOverlay \
+#    NavbarAsusOverlay \
+#    NavbarMotoOverlay \
+#    NavbarNexusOverlay \
+#    NavbarOldOverlay \
+#    NavbarOnePlusOverlay \
+#    NavbarOneUiOverlay \
+#    NavbarSammyOverlay \
+#    NavbarTecnoCamonOverlay
 
 # Offline charger
 PRODUCT_PACKAGES += \
@@ -325,31 +325,31 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, vendor/extras/sounds/sounds.mk)
 
 # Themes
-PRODUCT_PACKAGES += \
-    AndroidClearThemeOverlay \
-    AndroidVividThemeOverlay \
-    AndroidEspressoThemeOverlay \
-    AndroidSnowPaintDropThemeOverlay \
-    DarkBgOverlay \
-    PacleggersThemeAndroidOverlay \
-    PacleggersThemeSettingsOverlay \
-    PacleggersThemeSystemUIOverlay \
-    ShishuIllusionsThemeAndroidOverlay \
-    ShishuIllusionsThemeSettingsOverlay \
-    ShishuIllusionsThemeSystemUIOverlay \
-    ShishuImmensityThemeAndroidOverlay \
-    ShishuImmensityThemeSettingsOverlay \
-    ShishuImmensityThemeSystemUIOverlay \
-    ShishuNightsThemeAndroidOverlay \
-    ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay \
-    ShishuAmalgamationThemeAndroidOverlay \
-    ShishuAmalgamationThemeSettingsOverlay \
-    ShishuAmalgamationThemeSystemUIOverlay
+#PRODUCT_PACKAGES += \
+#    AndroidClearThemeOverlay \
+#    AndroidVividThemeOverlay \
+#    AndroidEspressoThemeOverlay \
+#    AndroidSnowPaintDropThemeOverlay \
+#    DarkBgOverlay \
+#    PacleggersThemeAndroidOverlay \
+#    PacleggersThemeSettingsOverlay \
+#    PacleggersThemeSystemUIOverlay \
+#    ShishuIllusionsThemeAndroidOverlay \
+#    ShishuIllusionsThemeSettingsOverlay \
+#    ShishuIllusionsThemeSystemUIOverlay \
+#    ShishuImmensityThemeAndroidOverlay \
+#    ShishuImmensityThemeSettingsOverlay \
+#    ShishuImmensityThemeSystemUIOverlay \
+#    ShishuNightsThemeAndroidOverlay \
+#    ShishuNightsThemeSettingsOverlay \
+#    ShishuNightsThemeSystemUIOverlay \
+#    ShishuAmalgamationThemeAndroidOverlay \
+#    ShishuAmalgamationThemeSettingsOverlay \
+#    ShishuAmalgamationThemeSystemUIOverlay
 
 # UDFPS
-ifeq ($(TARGET_HAS_UDFPS),true)
-PRODUCT_PACKAGES += \
-    UdfpsIcons \
-    UdfpsAnimations
-endif
+#ifeq ($(TARGET_HAS_UDFPS),true)
+#PRODUCT_PACKAGES += \
+#    UdfpsIcons \
+#    UdfpsAnimations
+#endif
