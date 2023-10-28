@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2022 crDroid Android Project
+     Copyright (C) 2022-2024 crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,6 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string-array translatable="false" name="udfps_animation_styles">
+        <item>none</item>
         <item>bloom</item>
         <item>cyber</item>
         <item>electronic</item>
@@ -58,6 +59,7 @@
     </string-array>
 
     <string-array translatable="false" name="udfps_animation_previews">
+        <item>none_anim_1</item>
         <item>bloom_anim_14</item>
         <item>cyber_anim_9</item>
         <item>electronic_anim_7</item>
@@ -99,6 +101,7 @@
     </string-array>
 
     <string-array translatable="false" name="udfps_animation_titles">
+        <item>None</item>
         <item>Bloom</item>
         <item>Cyber</item>
         <item>Electronic</item>
