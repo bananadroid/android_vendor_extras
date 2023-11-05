@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="config_batterymeterBoltPath">M 8.08,9.5 H 7 V 5.99 C 7,5.73 6.65,5.64 6.53,5.87 L 3.7,11.13 C 3.61,11.3 3.73,11.5 3.92,11.5 H 5 V 15.01 C 5,15.27 5.35,15.36 5.47,15.13 L 8.3,9.87 C 8.39,9.7 8.27,9.5 8.08,9.5 Z</string>
-</resources>
