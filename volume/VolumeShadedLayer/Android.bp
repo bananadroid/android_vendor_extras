@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "VolumeShadedLayer",
+    theme: "VolumeShadedLayer",
+    product_specific: true,
+}

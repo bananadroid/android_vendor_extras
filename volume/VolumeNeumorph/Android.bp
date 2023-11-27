@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "VolumeNeumorph",
+    theme: "VolumeNeumorph",
+    product_specific: true,
+}

@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "VolumeAOSPRevamped",
+    theme: "VolumeAOSPRevamped",
+    product_specific: true,
+}

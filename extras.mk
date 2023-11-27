@@ -391,6 +391,16 @@ PRODUCT_PACKAGES += \
     ShishuAmalgamationThemeSettingsOverlay \
     ShishuAmalgamationThemeSystemUIOverlay
 
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
+
 # UDFPS
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \

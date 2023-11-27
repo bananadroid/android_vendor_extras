@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "VolumeDoubleLayer",
+    theme: "VolumeDoubleLayer",
+    product_specific: true,
+}
