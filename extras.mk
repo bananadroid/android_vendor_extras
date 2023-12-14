@@ -345,29 +345,6 @@ PRODUCT_PACKAGES += \
 # Sounds
 $(call inherit-product, vendor/extras/sounds/sounds.mk)
 
-# Themes
-PRODUCT_PACKAGES += \
-#    AndroidClearThemeOverlay \
-#    AndroidVividThemeOverlay \
-#    AndroidEspressoThemeOverlay \
-#    AndroidSnowPaintDropThemeOverlay \
-    DarkBgOverlay
-#    PacleggersThemeAndroidOverlay \
-#    PacleggersThemeSettingsOverlay \
-#    PacleggersThemeSystemUIOverlay \
-#    ShishuIllusionsThemeAndroidOverlay \
-#    ShishuIllusionsThemeSettingsOverlay \
-#    ShishuIllusionsThemeSystemUIOverlay \
-#    ShishuImmensityThemeAndroidOverlay \
-#    ShishuImmensityThemeSettingsOverlay \
-#    ShishuImmensityThemeSystemUIOverlay \
-#    ShishuNightsThemeAndroidOverlay \
-#    ShishuNightsThemeSettingsOverlay \
-#    ShishuNightsThemeSystemUIOverlay \
-#    ShishuAmalgamationThemeAndroidOverlay \
-#    ShishuAmalgamationThemeSettingsOverlay \
-#    ShishuAmalgamationThemeSystemUIOverlay
-
 # UDFPS
 #ifeq ($(TARGET_HAS_UDFPS),true)
 #PRODUCT_PACKAGES += \
