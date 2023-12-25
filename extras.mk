@@ -71,6 +71,7 @@ PRODUCT_PACKAGES += \
     FontRosemaryOverlay \
     FontRubikOverlay \
     FontSamsungOneOverlay \
+    FontSansSerifOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSimpleDaySourceOverlay \
     FontSonySketchOverlay \
@@ -276,7 +277,8 @@ PRODUCT_PACKAGES += \
     ClockFontNeptunCATOverlay \
     ClockFontProdeltCoOverlay \
     ClockFontRubikGlitchOverlay \
-    ClockFontTourneyMediumOverlay
+    ClockFontTourneyMediumOverlay \
+    ClockFontSansSerifOverlay
 
 # Lockscreen date fonts 
 #PRODUCT_PACKAGES += \
