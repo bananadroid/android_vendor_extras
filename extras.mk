@@ -240,6 +240,11 @@ PRODUCT_PACKAGES += \
     QSSurround \
     QSThin
 
+# Utility Overlays
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset
+
 # Lockscreen clock fonts 
 PRODUCT_PACKAGES += \
     ClockFontNothingDotOverlay \

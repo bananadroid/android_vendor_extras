@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "HideSmartSpace",
+    theme: "HideSmartSpace",
+    product_specific: true,
+}
