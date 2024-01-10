@@ -46,7 +46,6 @@ PRODUCT_PACKAGES += \
     FontFifa2018Overlay \
     FontFluidSansOverlay \
     FontFucekSourceOverlay \
-    FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
     FontInterOverlay \
@@ -242,7 +241,6 @@ PRODUCT_PACKAGES += \
 
 # Lockscreen clock fonts 
 PRODUCT_PACKAGES += \
-    ClockFontGoogleSansOverlay \
     ClockFontNothingDotOverlay \
     ClockFontAdventProOverlay \
     ClockFontBigNoodleTiltingOverlay \

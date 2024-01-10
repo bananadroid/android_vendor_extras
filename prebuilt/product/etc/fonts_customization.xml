@@ -403,6 +403,10 @@
     </font>
   </family>
 
+  <family customizationType="new-named-family" name="google-sans-clock">
+    <font>GoogleSansClock-Regular.ttf</font>
+  </family>
+
   <family customizationType="new-named-family" name="google-sans-flex">
     <font weight="100" style="normal">GoogleSansFlex-Regular.ttf
     </font>
