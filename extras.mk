@@ -354,9 +354,6 @@ PRODUCT_PACKAGES += \
 
 # UI Styles
 PRODUCT_PACKAGES += \
-    UnmonetThemeAndroidOverlay \
-    UnmonetThemeSettingsOverlay \
-    UnmonetThemeSystemUIOverlay \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
@@ -364,33 +361,9 @@ PRODUCT_PACKAGES += \
     AndroidVividThemeOverlay \
     AndroidEspressoThemeOverlay \
     AndroidSnowPaintDropThemeOverlay \
-    NexodusThemeAndroidOverlay \
-    NexodusThemeSettingsOverlay \
-    NexodusThemeSystemUIOverlay \
-    ProjectOptronicThemeAndroidOverlay \
-    ProjectOptronicThemeSettingsOverlay \
-    ProjectOptronicThemeSystemUIOverlay \
-    PacleggersThemeAndroidOverlay \
-    PacleggersThemeSettingsOverlay \
-    PacleggersThemeSystemUIOverlay \
-    SolarizedThemeAndroidOverlay \
-    SolarizedThemeSettingsOverlay \
-    SolarizedThemeSystemUIOverlay \
     ShishuIllusionsThemeAndroidOverlay \
     ShishuIllusionsThemeSettingsOverlay \
-    ShishuIllusionsThemeSystemUIOverlay \
-    ShishuImmensityThemeAndroidOverlay \
-    ShishuImmensityThemeSettingsOverlay \
-    ShishuImmensityThemeSystemUIOverlay \
-    ShishuThemeAndroidOverlay \
-    ShishuThemeSettingsOverlay \
-    ShishuThemeSystemUIOverlay \
-    ShishuNightsThemeAndroidOverlay \
-    ShishuNightsThemeSettingsOverlay \
-    ShishuNightsThemeSystemUIOverlay \
-    ShishuAmalgamationThemeAndroidOverlay \
-    ShishuAmalgamationThemeSettingsOverlay \
-    ShishuAmalgamationThemeSystemUIOverlay
+    ShishuIllusionsThemeSystemUIOverlay
 
 # UDFPS
 #ifeq ($(TARGET_HAS_UDFPS),true)
