@@ -366,8 +366,7 @@ PRODUCT_PACKAGES += \
     ShishuIllusionsThemeSystemUIOverlay
 
 # UDFPS
-#ifeq ($(TARGET_HAS_UDFPS),true)
-#PRODUCT_PACKAGES += \
-#    UdfpsIcons \
-#    UdfpsAnimations
-#endif
+ifeq ($(TARGET_HAS_UDFPS),true)
+PRODUCT_PACKAGES += \
+    UdfpsAnimations
+endif
