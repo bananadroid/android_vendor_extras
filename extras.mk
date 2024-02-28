@@ -227,18 +227,23 @@ PRODUCT_PACKAGES += \
         PlumpyWiFiOverlay \
         FaintUIWiFiOverlay
 
+# QS Panel
+#PRODUCT_PACKAGES += \
+#    QSRoundedRectangle \
+#    QSOutline \
+#    QSTwoToneAccent \
+#    QSTwoToneAccentTrans \
+#    QSShaded \
+#    QSCyberPunk \
+#    QSNeumorph \
+#    QSReflected \
+#    QSSurround \
+#    QSThin
+
 # QS UI Style
-PRODUCT_PACKAGES += \
-    A11QSUI \
-    QSOutline \
-    QSTwoToneAccent \
-    QSTwoToneAccentTrans \
-    QSShaded \
-    QSCyberPunk \
-    QSNeumorph \
-    QSReflected \
-    QSSurround \
-    QSThin
+#PRODUCT_PACKAGES += \
+#    A11QSUI \
+#    ReevaluateSysUIOverlay
 
 # Utility Overlays
 PRODUCT_PACKAGES += \
