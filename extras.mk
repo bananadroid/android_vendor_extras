@@ -409,5 +409,6 @@ PRODUCT_PACKAGES += \
 # UDFPS
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
+    UdfpsIcons \
     UdfpsAnimations
 endif
